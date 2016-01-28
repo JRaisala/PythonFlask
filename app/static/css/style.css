@@ -1,0 +1,17 @@
+html body{
+ 
+    max-width: 100%;
+    width: 100%;
+    min-width: 100%;
+    background-color: beige;
+    
+    
+}
+
+  .my_container{
+            
+                width: 500px;
+                margin: 30px;
+                padding:8px;
+                border:2px;
+                border-ratio:5px;
