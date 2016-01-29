@@ -1,5 +1,5 @@
 @echo off
-set "VIRTUAL_ENV=C:\REPOSITORIES\PythonFlask\flask"
+set "VIRTUAL_ENV=C:\Repositorys\PythonFlask\flask"
 
 if not defined PROMPT (
     set "PROMPT=$P$G"
